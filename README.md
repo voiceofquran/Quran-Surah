@@ -1,4 +1,5 @@
-QuranSurah
+Quran Surah
+Surah of The Quran
 ========
 
 
