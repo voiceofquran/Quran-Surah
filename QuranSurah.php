@@ -139,6 +139,10 @@ $location[2]="Madani";
 <meta charset="utf-8">
 <title>Quran Surah</title>
 <!-- provided by voiceofquran.com -->
+<!-- provided by VoiceOfQuran.com. Please do not remove these comments -->
+<!-- please do not forget us in your Dua (prayers) as I am in desprate need of your prayers -->
+<!-- May Allah (SWT) guide us to the right path. -->
+<!-- Sep 01, 2013, Ajax, ON, Canada by ABS voiceofQuran@gmail.com -->
 
 </head>
 
