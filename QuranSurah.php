@@ -1,4 +1,19 @@
 <?php
+
+/*
+QuranSurah is php array which has list of all Surah (chapterss) of Holy Quran
+with 
+--- Arabic name
+--- Latin name
+--- English name
+--- Ayah number
+--- Location (macchi/madani)
+--- Sajda location
+provided by VoiceOfQuran.com. Please do not remove these comments
+please do not forget us in your Dua (prayers) as I am in desprate need of your prayers
+May Allah (SWT) guide us to the right path.
+Sep 01, 2013, Ajax, ON, Canada by ABS voiceofQuran@gmail.com
+*/
 $surah=array(
 			1=>array('id'=>'1','arabic'=>'سورة الفاتحة','latin'=>'Al-Fatiha','english'=>'The Opening','location'=>'1','sajda'=>'0','aya'=>'7'),
 			2=>array('id'=>'2','arabic'=>'سورة البقرة','latin'=>'Al-Baqara','english'=>'The Cow','location'=>'2','sajda'=>'0','aya'=>'286'),
