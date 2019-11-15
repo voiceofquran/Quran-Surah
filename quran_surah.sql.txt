@@ -21,7 +21,7 @@ CREATE TABLE IF NOT EXISTS `quran_surah` (
 --	number of ayah in a surah
 -- Provided by VoiceOfQuran.com
 -- Please keep these comments when sharing
--- contact for help or visit help page http://getHub.com/voiceofquran for more information
+-- contact for help or visit help page http://github.com/voiceofquran for more information
 -- email us voiceofquran@gmail.com
 -- prepared 02 Sep 2013 in Ajax, ON, Canada at 10:25
 -- Please don't for get me and my family in your prayers
