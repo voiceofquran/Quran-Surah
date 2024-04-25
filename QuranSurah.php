@@ -7,7 +7,7 @@ with
 --- Latin name
 --- English name
 --- Ayah number
---- Location (macchi/madani)
+--- Location (Makki/madani)
 --- Sajda location
 provided by VoiceOfQuran.com. Please do not remove these comments
 please do not forget us in your Dua (prayers) as I am in desprate need of your prayers
