@@ -1,7 +1,7 @@
 <?php
 
 /*
-QuranSurah is php array which has list of all Surah (chapterss) of Holy Quran
+QuranSurah is php array which has list of all Surah, para, parah, juz (chapterss) of Holy Quran
 with 
 --- Arabic name
 --- Latin name
